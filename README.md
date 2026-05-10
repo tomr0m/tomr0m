@@ -1,6 +1,3 @@
-# Ilan Keselman
-
-**Full Stack Developer | WordPress Engineer**
 
 ![Animated Banner](https://raw.githubusercontent.com/tomr0m/tomr0m/main/banner-2.svg)
 ---
