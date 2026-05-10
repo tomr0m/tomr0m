@@ -2,6 +2,7 @@
 
 **Full Stack Developer | WordPress Engineer**
 
+![Animated Banner](https://raw.githubusercontent.com/tomr0m/tomr0m/main/banner.svg)
 ---
 
 I build real systems with clean architecture and strong backend logic. Full stack development across React, Node.js, and WordPress. Currently focusing on integrating AI tools into development workflows.
