@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes gradientShift {
+        0% { stop-color: #3b82f6; }
+        25% { stop-color: #8b5cf6; }
+        50% { stop-color: #ec4899; }
+        75% { stop-color: #3b82f6; }
+        100% { stop-color: #3b82f6; }
+      }
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0px); opacity: 0.4; }
+        50% { transform: translateY(-20px); opacity: 0.7; }
+      }
+      @keyframes float2 {
+        0%, 100% { transform: translateY(0px); opacity: 0.3; }
+        50% { transform: translateY(-25px); opacity: 0.6; }
+      }
+      @keyframes float3 {
+        0%, 100% { transform: translateY(0px); opacity: 0.35; }
+        50% { transform: translateY(-15px); opacity: 0.65; }
+      }
+      .gradient-bg {
+        animation: gradientShift 8s ease-in-out infinite;
+      }
+      .float-element {
+        mix-blend-mode: screen;
+      }
+    </style>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" class="gradient-bg" style="stop-color: #3b82f6;"/>
+      <stop offset="50%" class="gradient-bg" style="stop-color: #8b5cf6;"/>
+      <stop offset="100%" class="gradient-bg" style="stop-color: #ec4899;"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="180" fill="url(#bgGradient)"/>
+  
+  <circle cx="200" cy="60" r="40" fill="#ffffff" class="float-element" style="animation: float1 6s ease-in-out infinite;"/>
+  <circle cx="1000" cy="120" r="35" fill="#ffffff" class="float-element" style="animation: float2 7s ease-in-out infinite;"/>
+  <circle cx="600" cy="150" r="30" fill="#ffffff" class="float-element" style="animation: float3 5s ease-in-out infinite;"/>
+  
+  <text x="600" y="90" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="600" fill="#ffffff">
+    Backend • Frontend • Database
+  </text>
+</svg>
