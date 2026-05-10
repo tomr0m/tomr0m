@@ -1,16 +1,37 @@
-## Hi there 👋
+# Ilan Keselman
 
-<!--
-**tomr0m/tomr0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | WordPress Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build real systems with clean architecture and strong backend logic. Full stack development across React, Node.js, and WordPress. Currently focusing on integrating AI tools into development workflows.
+
+---
+
+## Skills
+
+**Frontend:** React, JavaScript, Responsive Design
+
+**Backend:** Node.js, Express.js, PHP, REST APIs
+
+**Database:** MongoDB, MySQL
+
+**AI:** Prompt Engineering, LLM Integration, Claude API
+
+**WordPress:** Custom Themes, Plugin Development, ACF
+
+**Tools:** Git, GitHub, Docker, Linux
+
+---
+
+## Experience
+
+Built and maintained independent full-stack projects from scratch. Engineered high-performance WordPress themes. Integrated modern frontends with backend systems. Full ownership from database design through deployment.
+
+---
+
+## Contact
+
+keselmanilan@gmail.com | 054-650-9053
+
+linkedin.com/in/ilan-keselman | github.com/tomr0m
